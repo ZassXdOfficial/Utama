@@ -116,7 +116,24 @@ html {
  div.EditScheduleModal___StyledDiv2-sc-wh9db9-4.fhEpAC {
    background-color: #27283f;
  }
- 
+
+div .LoginFormContainer___StyledDiv-sc-cyh04c-3 .cxOtYP {
+ background-color: #2e2e33 !important;
+}
+div .Label-sc-g780ms-0 .dqkKHi {
+ color: white !important;
+}
+div .Label-sc-g780ms-0 {
+ color: white !important;
+}
+
+.Button__ButtonStyle-sc-1qu1gou-0 .dLAOsI {
+ border-radius: 50px !important;
+}
+div .LoginFormContainer___StyledDiv-sc-cyh04c-3 {
+ background-color: #2e2e33 !important;
+}
+
  div.EditScheduleModal___StyledDiv4-sc-wh9db9-6.jyDDEO {
    background-color: #27283f;
  }
