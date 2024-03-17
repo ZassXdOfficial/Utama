@@ -63,13 +63,10 @@ restoreBackUp(){
 echo "ZassXdOfficial"
 echo "AUTO INSTALL THEME"
 echo ""
-echo "Wa: +63 821-2614-8789"
-echo "Nama: ZassXdOfficial"
+echo "Wa: +63 822-1887-6020"
+echo "Nama: ZassXd Official"
 echo ""
-echo "[1] Install theme"
-echo "[2] Restore backup"
-echo "[3] Repair panel (use if you have an error in the theme installation)"
-echo "[4] Exit"
+echo "Install theme"
 
 read -p "Please enter a number: " choice
 if [ $choice == "1" ]
